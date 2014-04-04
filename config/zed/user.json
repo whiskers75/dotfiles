@@ -1,0 +1,14 @@
+{
+    "imports": [
+        "/default.json"
+    ],
+    "preferences": {
+        "theme": "tomorrow_night_eighties"
+    },
+    "modes": {},
+    "keys": {},
+    "commands": {},
+    "handlers": {},
+    "themes": {},
+    "packages": []
+}
