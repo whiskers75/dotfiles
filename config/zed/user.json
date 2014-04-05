@@ -6,7 +6,10 @@
         "theme": "tomorrow_night_eighties"
     },
     "modes": {},
-    "keys": {},
+    "keys": {
+        "Cursor:Multiple:Add At Next Instance Of Identifier": "Ctrl-Shift-Right|Ctrl-Alt-Right",
+        "Cursor:Multiple:Add At Previous Instance Of Identifier": "Ctrl-Shift-Right|Ctrl-Alt-Right"
+    },
     "commands": {},
     "handlers": {},
     "themes": {},
