@@ -1,2 +1,4 @@
 # whiskers75's .zshrc - very exciting stuff...
-export EDITOR=nano 	# I know, it's nano, but for any terminal things I like nano
+alias zed='/home/whiskers75/zed/nw/build/zed/zed'
+export EDITOR=/home/whiskers75/zed/nw/build/zed/zed # woot +1 zed yay
+
